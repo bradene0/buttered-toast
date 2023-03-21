@@ -1,3 +1,4 @@
+//From scrambled-meggs repository, snippet controls title "Hacking effect"
 const letters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ ";
 
 document.querySelector("h1").onmouseover = event => {
@@ -17,3 +18,4 @@ document.querySelector("h1").onmouseover = event => {
     iterations += 1 / 3;
    }, 33);
 }
+//End scrambled-meggs snippet
