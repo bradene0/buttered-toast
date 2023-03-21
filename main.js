@@ -16,7 +16,7 @@ document.querySelector("h1").onmouseenter = event => {
     .join('');
     if(iterations >= event.target.dataset.value.length) clearInterval(interval);
     iterations += 1 / 3;
-    {once: true}
+   // Not currently operational {once: true}
    }, 33);
 }
 
