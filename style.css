@@ -1,8 +1,12 @@
+p {
+  color: ghostwhite;
+}
+
 body {
   background-color: black;
 }
 h1 {
-  font-size: 5rem;
+  font-size: 3rem;
   font-family: "Space Mono", monospace;
   color: ghostwhite;
 }
